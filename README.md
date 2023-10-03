@@ -1,15 +1,8 @@
 # BIOGRAFIA
 
--Olá,meu nome é Ana Claudia!
--Meu email de contato é ana.sautiehr.borges@ecola.pr.gov.br
--Sou gremista!
--Alimentadora de linha de produção
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns
+- Olá,meu nome é Ana Claudia!
+- 📫 Meu email de contato é ana.sautiehr.borges@ecola.pr.gov.br
+- ⚽ Sou gremista!
+- 💪 Alimentadora de linha de produção
+-💃 Amo dançar!
+-👩‍❤️‍👨  Gosto de passar o tempo com o meu namorado
